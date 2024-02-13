@@ -1,4 +1,4 @@
-# SDL comme Sors Du Labyrinthe
+# C/SDL2
 
 ## Installation sous Ubuntu
 
